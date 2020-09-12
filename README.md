@@ -1,4 +1,4 @@
-[![header](https://capsule-render.vercel.app/api?type=rect&color=0366d6&height=200&section=header&text=환영합니다&fontSize=80&fontColor=ffffff&fontAlignY=54)](https://github.com/kyechan99/capsule-render)
+[![header](https://capsule-render.vercel.app/api?type=rect&color=0366d6&height=200&section=header&text=Hi%20there&fontSize=80&fontColor=ffffff&fontAlignY=54)](https://github.com/kyechan99/capsule-render)
 
 🏢 [Hold On Programmer](https://play.google.com/store/apps/developer?id=Hold+On)</br>
 🏠 [Seoul, Republic of Korea](https://www.google.com/maps/place/Seoul)</br>
