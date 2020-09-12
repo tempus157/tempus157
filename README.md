@@ -1,1 +1,1 @@
-[![header](https://capsule-render.vercel.app/api?type=rect&color=4285f4&height=200&section=header&text=안녕하세요%20👋&fontSize=80&fontColor=ffffff&fontAlignY=54)](https://github.com/kyechan99/capsule-render)
+[![header](https://capsule-render.vercel.app/api?type=rect&color=8ab4f8&height=200&section=header&text=안녕하세요%20👋&fontSize=80&fontColor=000000&fontAlignY=54)](https://github.com/kyechan99/capsule-render)
