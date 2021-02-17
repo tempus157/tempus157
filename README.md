@@ -3,4 +3,3 @@
 🏢 [Hold On Programmer](https://www.facebook.com/HoldOnSNS/)</br>
 🎒 [Kookmin University](https://www.facebook.com/kookmin.univ/)</br>
 🏠 [Seoul, Republic of Korea](https://www.google.com/maps/place/Seoul)</br>
-📃 [Portfolio (WIP)](https://www.notion.so/c3c1c4fdeb6844f9ac251a85e11a59ab)</br>
